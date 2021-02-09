@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(o,0,0,0.5), url('./images/img.png'));
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
